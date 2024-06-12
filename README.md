@@ -2,31 +2,31 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v-m-tejus&label=Profile%20views&color=0e75b6&style=flat" alt="v-m-tejus" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=v-m-tejus" alt="v-m-tejus" /></a> </p>
-🔭 I’m currently working on Aarogya Seva
-🌱 I’m currently learning DevOps
-👯 I’m looking to collaborate on ADHOC based SPG Urban Mobility Enhancement
-🤝 I’m looking for help with IoT and Image processing using OpenCV
-💬 Ask me about Java, Git, Linux, Django
-📫 How to reach me vmtejusksit@gmail.com
-📄 Know about my experiences resume_link
-⚡ Fun fact I am a lazy programmer, so I find cost and time-effective solutions to complex problems
+🔭 I’m currently working on Aarogya Seva<br>
+🌱 I’m currently learning DevOps<br>
+👯 I’m looking to collaborate on ADHOC based SPG Urban Mobility Enhancement<br>
+🤝 I’m looking for help with IoT and Image processing using OpenCV<br>
+💬 Ask me about Java, Git, Linux, Django<br>
+📫 How to reach me vmtejusksit@gmail.com<br>
+📄 Know about my experiences resume_link<br>
+⚡ Fun fact I am a lazy programmer, so I find cost and time-effective solutions to complex problems<br>
 <h3 align="left">Special Moments from My Life:</h3>
 <p align="left">
-    - 🏆 Developed a **Remote Medication System using IoT Smart Health Monitoring** with mobile app control using MIT App Inventor<br>
-    - 💡 Created an **IoT-based Smart Standalone QR Pharmacy**<br>
+    - 🏆 Developed a Remote Medication System using IoT Smart Health Monitoring with mobile app control using MIT App Inventor<br>
+    - 💡 Created an IoT-based Smart Standalone QR Pharmacy<br>
 </p>
 <h3 align="left">Interests:</h3>
 <p align="left">
-    - **Java**<br>
-    - **IoT**<br>
-    - **DevOps**<br>
-    - **Cross-Platform Coding**<br>
+    - Java<br>
+    - IoT<br>
+    - DevOps<br>
+    - Cross-Platform Coding<br>
 </p>
 <h3 align="left">Values:</h3>
 <p align="left">
-    - **Honesty**<br>
-    - **Integrity**<br>
-    - **Joy**<br>
+    - Honesty<br>
+    - Integrity<br>
+    - Joy<br>
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
