@@ -30,7 +30,7 @@ Currently focused on backend systems, scalable architectures, and preparing for
 <ul>
   <li>Backend system design & scalability</li>
   <li>Building clean, maintainable APIs</li>
-  <li>Data Structures & Algorithms preparation</li>
+  <li>Practicing Data Structures & Algorithms: <a href="https://github.com/V-M-Tejus/dsa-practice" target="_blank">dsa-practice</a></li>
 </ul>
 
 <h3>📫 Connect</h3>
