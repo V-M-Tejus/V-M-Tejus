@@ -19,10 +19,10 @@ Currently focused on backend systems, scalable architectures, and looking for
 
 <ul>
   <li><strong>Languages:</strong> TypeScript, Python, Java, JavaScript</li>
-  <li><strong>Backend:</strong> NestJS, Django, REST APIs</li>
+  <li><strong>Backend:</strong> NodeJS, NestJS, Django, REST APIs</li>
   <li><strong>Frontend:</strong> React, Next.js</li>
-  <li><strong>Databases:</strong> PostgreSQL, MongoDB</li>
-  <li><strong>Cloud & DevOps:</strong> AWS (Lambda, EC2, S3, IAM), Docker, Nginx</li>
+  <li><strong>Databases:</strong> PostgreSQL, MongoDB, ContentfulCMS</li>
+  <li><strong>Cloud & DevOps:</strong> AWS (Lambda, Amplify, EC2, S3, IAM), Docker, Nginx</li>
 </ul>
 
 <h3>📌 Current Focus</h3>
@@ -38,3 +38,4 @@ Currently focused on backend systems, scalable architectures, and looking for
   <a href="https://www.linkedin.com/in/v-m-tejus">LinkedIn</a> |
   <a href="https://github.com/V-M-Tejus">GitHub</a>
 </p>
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
